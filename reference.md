@@ -26,6 +26,6 @@ admin create a superuser:
     `python manage.py createsuperuser`
 
 
-Last place: https://docs.djangoproject.com/en/4.0/intro/tutorial03/#namespacing-url-names
+https://docs.djangoproject.com/en/4.0/intro/tutorial05/
 
 
