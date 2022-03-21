@@ -26,4 +26,4 @@ admin create a superuser:
     `python manage.py createsuperuser`
 
 
-https://docs.djangoproject.com/en/4.0/intro/tutorial06/
+https://docs.djangoproject.com/en/4.0/intro/tutorial07/
